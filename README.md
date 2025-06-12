@@ -32,15 +32,10 @@ Settings > Power Plan > Screen and sleep > all check "Never"
 File Explorer > ··· > Options > Opens File Explorer To > check "This PC"<br>
 File Explorer > ··· > Options > Privacy > all uncheck
 
-### Category Rule
-
-Sort > Date Modified
-
 ### Download Necessary Applications
 
 #### Page Download
 
-[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)<br>
 [Google Chrome](https://www.google.com/chrome/)<br>
 [Optimizer](https://github.com/hellzerg/optimizer)<br>
 Win11EZToUse<br>
@@ -51,36 +46,41 @@ EhPG 小說下載器<br>
 
 #### 2 download
 
-[7-zip](https://www.7-zip.org/download.html)<br>
 [MSIAfterBurner](https://www.msi.com/Landing/afterburner/graphics-cards)<br>
 [Logitech G Hub](https://www.logitechg.com/en-us/innovation/g-hub.html)<br>
 [Voicemeeter](https://voicemeeter.com/)<br>
-[枫叶工具箱](https://winmoes.com/tools/12948.html)<br>
 [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)<br>
-[Twinkle Tray](https://twinkletray.com/)<br>
-[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)<br>
-[singlefile](https://github.com/gildas-lormeau/SingleFile)<br>
 [qbittorrent](https://www.fosshub.com/qBittorrent.html)<br>
-[Lyricify4](https://github.com/WXRIW/Lyricify-App)<br>
-[LANDrop](https://landrop.app/#downloads)<br>
 [Steam](https://store.steampowered.com/about/)<br>
 [Steam++](https://steampp.net/)<br>
-[Epic](https://store.epicgames.com/en-US/download)<br>
 [Telegram Desktop](https://telegram.org/)<br>
 [Video Converter](https://handbrake.fr/downloads.php)<br>
-[nomacs](https://github.com/nomacs/nomacs)<br>
 [Magpie](https://github.com/Blinue/Magpie?tab=readme-ov-file)<br>
-[Spotify](https://www.spotify.com/us/download/other/)<br>
 [LockHunter](https://lockhunter.com/download.htm)<br>
 [File Shredder](https://www.fileshredder.org/)<br>
-[Bandizip](https://en.bandisoft.com/bandizip/)<br>
-Start11<br>
-[playnite](https://github.com/JosefNemec/Playnite)<br>
-Revo Uninstaller<br>
 [quicklook](https://github.com/QL-Win/QuickLook)<br>
 [FanControl](https://github.com/Rem0o/FanControl.Releases)<br>
 [AutoDarkMode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)<br>
 [HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html)<br>
+[Animeko](https://myani.org/downloads)<br>
+[bilidownloader](https://github.com/LightQuanta/BiliResourceDownloader)<br>
+DSX<br>
+[Everything](https://everything.en.uptodown.com/windows/download)<br>
+[Filerennamer](https://github.com/ilgnefz/once_power)<br>
+[Game_Cheats_Manager](https://github.com/dyang886/Game-Cheats-Manager)<br>
+[Locale_Emulator](https://github.com/xupefei/Locale-Emulator)<br>
+[LocalSend](https://localsend.org/download?os=windows)<br>
+[Lossless_Cut](https://github.com/mifi/lossless-cut)<br>
+[VScode](https://code.visualstudio.com/download)<br>
+[MobaXterm](https://mobaxterm.mobatek.net/download.html)<br>
+[慕遜公益](https://mxfree.ao-x.ac.cn/chi/)<br>
+[potplayer](https://potplayer.daum.net/)<br>
+[ScreenToGif](https://www.screentogif.com/)<br>
+[SonyMusicCenter](https://www.sony.com.hk/zh/electronics/support/articles/MC4PC020001?srsltid=AfmBOorScW6EVK8K-NBdzipK003hFhN8Kdarr8wzejA9MkZ3wsUMzQRQ)<br>
+[Syncthing](https://syncthing.net/downloads/)<br>
+[taskbarX](https://taskbarx.org/)<br>
+Thrustmaster
+[安卓搞機工具箱](https://jamcz.com/gjgjx/)<br>
 
 ### Block Windows Update
 
