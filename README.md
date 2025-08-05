@@ -36,7 +36,7 @@ File Explorer > ··· > Options > Privacy > all uncheck
 
 #### Page Download
 
-[Google Chrome](https://www.google.com/chrome/)<br>
+[Thorium](https://github.com/Alex313031/Thorium-Win/releases)<br>
 [Optimizer](https://github.com/hellzerg/optimizer)<br>
 Win11EZToUse<br>
 Dim2Clear<br>
@@ -53,7 +53,7 @@ EhPG 小說下載器<br>
 [qbittorrent](https://www.fosshub.com/qBittorrent.html)<br>
 [Steam](https://store.steampowered.com/about/)<br>
 [Steam++](https://steampp.net/)<br>
-[Telegram Desktop](https://telegram.org/)<br>
+[Telegram](https://apps.microsoft.com/detail/9n97zckpd60q?hl=en-US&gl=US)<br>
 [Video Converter](https://handbrake.fr/downloads.php)<br>
 [Magpie](https://github.com/Blinue/Magpie?tab=readme-ov-file)<br>
 [LockHunter](https://lockhunter.com/download.htm)<br>
@@ -74,22 +74,22 @@ DSX<br>
 [VScode](https://code.visualstudio.com/download)<br>
 [MobaXterm](https://mobaxterm.mobatek.net/download.html)<br>
 [慕遜公益](https://mxfree.ao-x.ac.cn/chi/)<br>
-[potplayer](https://potplayer.daum.net/)<br>
+[KMplayer](https://www.kmplayer.com/home#layer-64x)<br>
 [ScreenToGif](https://www.screentogif.com/)<br>
 [SonyMusicCenter](https://www.sony.com.hk/zh/electronics/support/articles/MC4PC020001?srsltid=AfmBOorScW6EVK8K-NBdzipK003hFhN8Kdarr8wzejA9MkZ3wsUMzQRQ)<br>
 [Syncthing](https://syncthing.net/downloads/)<br>
 [taskbarX](https://taskbarx.org/)<br>
-Thrustmaster
+Thrustmaster<br>
+VKBsim<br>
+VMware<br>
 [安卓搞機工具箱](https://jamcz.com/gjgjx/)<br>
+[Netmount](https://www.netmount.cn/download)<br>
+[Volanta](https://volanta.app/)<br>
 
 ### Block Windows Update
 
-Win+R > regedit > cd "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings" > Right click > New > DWORD(32) > rename as "FlightSettingsMaxPauseDays" > open > Decimal-5000
+Install "block_windows_update.reg"
 open "Windows Update" > select pause date
-
-### Block Drivers Update
-
-Settings > System > About > Advanced system settings >
 
 ### Privacy And Security Settings > OFF
 
