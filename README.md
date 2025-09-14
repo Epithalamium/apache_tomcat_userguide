@@ -85,6 +85,8 @@ VMware<br>
 [安卓搞機工具箱](https://jamcz.com/gjgjx/)<br>
 [Netmount](https://www.netmount.cn/download)<br>
 [Volanta](https://volanta.app/)<br>
+[Hash Checker]()<br>
+[LG TV AutoControl](https://github.com/JPersson77/LGTVCompanion)<br>
 
 ### Block Windows Update
 
