@@ -39,14 +39,11 @@ File Explorer > ··· > Options > Privacy > all uncheck
 [Thorium](https://github.com/Alex313031/Thorium-Win/releases)<br>
 [Optimizer](https://github.com/hellzerg/optimizer)<br>
 Win11EZToUse<br>
-Dim2Clear<br>
 Windows Cursor Enhancement<br>
-EhPG 小說下載器<br>
 [图吧工具箱](https://www.tbtool.cn/)<br>
 
 #### 2 download
 
-[MSIAfterBurner](https://www.msi.com/Landing/afterburner/graphics-cards)<br>
 [Logitech G Hub](https://www.logitechg.com/en-us/innovation/g-hub.html)<br>
 [Voicemeeter](https://voicemeeter.com/)<br>
 [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)<br>
@@ -161,3 +158,47 @@ New-Item -ItemType SymbolicLink -Path 'C:\Program Files\LGHUB\' - Value 'D: \Pro
 
 5.now run the .exe<br>
 6.confirm the app installed there in rep C<br>
+
+### macOS installed apps
+
+AdGuard<br>
+BaiduNetDisc<br>
+BTT<br>
+Clash Party<br>
+Discord<br>
+Equinox<br>
+FCP<br>
+Github Desktop<br>
+HashCheck<br>
+Ice<br>
+IINA<br>
+iMovie<br>
+Keka<br>
+KeyboardCleanTool<br>
+KnockKnock<br>
+LibreOffice<br>
+LuLu<br>
+Macs Fan Control<br>
+Noir<br>
+noTunes<br>
+OKX<br>
+OrbStack<br>
+PDFgear<br>
+PearClean<br>
+Pixelmator Pro<br>
+Privileges<br>
+QQMusic<br>
+Quark Disc<br>
+Royal TSX<br>
+Shottr<br>
+Sloth<br>
+Syntax Highlight<br>
+Tempermonkey<br>
+Telegram<br>
+Tiny Image<br>
+Tor Browser<br>
+Typora<br>
+Upscayl<br>
+venera<br>
+VSCode<br>
+WArp<br>
