@@ -84,6 +84,10 @@ VMware<br>
 [Volanta](https://volanta.app/)<br>
 [Hash Checker]()<br>
 [LG TV AutoControl](https://github.com/JPersson77/LGTVCompanion)<br>
+[Fastcopy](https://fastcopy.jp)<br>
+[Modengine](https://modengine.app)<br>
+[Motrix](https://motrix.app)<br>
+[Upscayl](https://upscayl.org)<br>
 
 ### Block Windows Update
 
