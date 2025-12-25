@@ -36,6 +36,7 @@ File Explorer > ··· > Options > Privacy > all uncheck
 
 #### Page Download
 
+Asus driverhub
 [Thorium](https://github.com/Alex313031/Thorium-Win/releases)<br>
 [Optimizer](https://github.com/hellzerg/optimizer)<br>
 Win11EZToUse<br>
@@ -82,7 +83,7 @@ VMware<br>
 [安卓搞機工具箱](https://jamcz.com/gjgjx/)<br>
 [Netmount](https://www.netmount.cn/download)<br>
 [Volanta](https://volanta.app/)<br>
-[Hash Checker]()<br>
+[Hash Checker](https://apps.microsoft.com/detail/9nblggh6csh2?hl=en-US&gl=US)<br>
 [LG TV AutoControl](https://github.com/JPersson77/LGTVCompanion)<br>
 [Fastcopy](https://fastcopy.jp)<br>
 [Modengine](https://modengine.app)<br>
@@ -148,6 +149,24 @@ Trtp 8
 
 | Multi | 14676 (15308) |
 | ----- | ------------- |
+
+### 9800X3D Optimization
+
+主頁-EXPO-enable
+高階模式-Ai Tweaker
+Ai Overclock Tuner-EXPO Tweaker
+FCLK Frequency-1/3 MEM frequency
+AUSU performance enhancement-enable
+Core performers boost-enable
+F9 search: power down-All enable | memory context-All enable
+高級-AMD overclocking
+Precision boost overdrive-高級
+PBO Limits-Motherboard
+Precision boost overdrive scalar-6x
+CPU bost clock override-enable(positive)
+Max CPU boost clock override(+)-200
+Platform thermal throttle limit-95
+Curve optimizer-All cores-negative-20
 
 ### Customize Logitech G Hub install location
 
