@@ -152,21 +152,21 @@ Trtp 8
 
 ### 9800X3D Optimization
 
-主頁-EXPO-enable
-高階模式-Ai Tweaker
-Ai Overclock Tuner-EXPO Tweaker
-FCLK Frequency-1/3 MEM frequency
-AUSU performance enhancement-enable
-Core performers boost-enable
-F9 search: power down-All enable | memory context-All enable
-高級-AMD overclocking
-Precision boost overdrive-高級
-PBO Limits-Motherboard
-Precision boost overdrive scalar-6x
-CPU bost clock override-enable(positive)
-Max CPU boost clock override(+)-200
-Platform thermal throttle limit-95
-Curve optimizer-All cores-negative-20
+主頁-EXPO-enable<br>
+高階模式-Ai Tweaker<br>
+Ai Overclock Tuner-EXPO Tweaker<br>
+FCLK Frequency-1/3 MEM frequency<br>
+AUSU performance enhancement-enable<br>
+Core performers boost-enable<br>
+F9 search: power down-All enable | memory context-All enable<br>
+高級-AMD overclocking<br>
+Precision boost overdrive-高級<br>
+PBO Limits-Motherboard<br>
+Precision boost overdrive scalar-6x<br>
+CPU bost clock override-enable(positive)<br>
+Max CPU boost clock override(+)-200<br>
+Platform thermal throttle limit-95<br>
+Curve optimizer-All cores-negative-20<br>
 
 ### Customize Logitech G Hub install location
 
@@ -225,3 +225,14 @@ Upscayl<br>
 venera<br>
 VSCode<br>
 WArp<br>
+
+### RockStar Start
+192.81.241.11 conductor-prod.ros.rockstargames.com<br>
+192.81.241.100 conductor-prod.ros.rockstargames.com<br>
+208.111.148.6 patches.rockstargames.com<br>
+208.111.149.150 prod.cloud.rockstargames.com<br>
+54.68.41.239 prod.cs.ros.rockstargames.com<br>
+192.81.245.200 prod.p01sjc.pod.rockstargames.com<br>
+192.81.245.201 prod.p02sjc.pod.rockstargames.com<br>
+192.81.241.11 prod.ros.rockstargames.com<br>
+54.149.44.210 prod.telemetry.ros.rockstargames.com<br>
