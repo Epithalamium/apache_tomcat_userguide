@@ -4,11 +4,9 @@
 
 when on network selection page > Shift+F10 > input "oobe\BypassNRO.cmd" > Windows will auto restart > "I haven't Internet Connections" > "Continue With Restricted Settings" > u can create local account now
 
-## Basic Settings
+### 圖吧工具箱內Win設定
 
 ### Necessary Drivers
-
-AMD Auto-select Program stand last(need net connection)
 
 ### Windows update
 
@@ -19,21 +17,14 @@ Settings > Power Plan > Screen and sleep > all check "Never"
 
 ### Download Necessary Applications
 
-#### Page Download
-
 Asus driverhub
-[Thorium](https://github.com/Alex313031/Thorium-Win/releases)<br>
+[chromium](https://github.com/RobRich999/Chromium_Clang)<br>
 [Optimizer](https://github.com/hellzerg/optimizer)<br>
 Win11EZToUse<br>
-Windows Cursor Enhancement<br>
+Windows Cursor replace<br>
 [图吧工具箱](https://www.tbtool.cn/)<br>
-
-#### 2 download
-
-[Logitech G Hub](https://www.logitechg.com/en-us/innovation/g-hub.html)<br>
-[Voicemeeter](https://voicemeeter.com/)<br>
+[Logitech](https://support.logi.com/hc/en-ca/articles/360059641133-Onboard-Memory-Manager)<br>
 [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)<br>
-[qbittorrent](https://www.fosshub.com/qBittorrent.html)<br>
 [Steam](https://store.steampowered.com/about/)<br>
 [Steam++](https://steampp.net/)<br>
 [Telegram](https://apps.microsoft.com/detail/9n97zckpd60q?hl=en-US&gl=US)<br>
@@ -44,7 +35,6 @@ Windows Cursor Enhancement<br>
 [quicklook](https://github.com/QL-Win/QuickLook)<br>
 [FanControl](https://github.com/Rem0o/FanControl.Releases)<br>
 [AutoDarkMode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)<br>
-[HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html)<br>
 [Animeko](https://myani.org/downloads)<br>
 [bilidownloader](https://github.com/LightQuanta/BiliResourceDownloader)<br>
 DSX<br>
@@ -56,7 +46,6 @@ DSX<br>
 [Lossless_Cut](https://github.com/mifi/lossless-cut)<br>
 [VScode](https://code.visualstudio.com/download)<br>
 [MobaXterm](https://mobaxterm.mobatek.net/download.html)<br>
-[慕遜公益](https://mxfree.ao-x.ac.cn/chi/)<br>
 [KMplayer](https://www.kmplayer.com/home#layer-64x)<br>
 [ScreenToGif](https://www.screentogif.com/)<br>
 [SonyMusicCenter](https://www.sony.com.hk/zh/electronics/support/articles/MC4PC020001?srsltid=AfmBOorScW6EVK8K-NBdzipK003hFhN8Kdarr8wzejA9MkZ3wsUMzQRQ)<br>
@@ -65,21 +54,19 @@ DSX<br>
 Thrustmaster<br>
 VKBsim<br>
 VMware<br>
-[安卓搞機工具箱](https://jamcz.com/gjgjx/)<br>
 [Netmount](https://www.netmount.cn/download)<br>
 [Volanta](https://volanta.app/)<br>
 [Hash Checker](https://apps.microsoft.com/detail/9nblggh6csh2?hl=en-US&gl=US)<br>
 [LG TV AutoControl](https://github.com/JPersson77/LGTVCompanion)<br>
 [Fastcopy](https://fastcopy.jp)<br>
 [Modengine](https://modengine.app)<br>
-[Motrix](https://motrix.app)<br>
-[Upscayl](https://upscayl.org)<br>
+[Motrix NEXT](https://github.com/AnInsomniacy/motrix-next)<br>
+[AutoHotkey](https://www.autohotkey.com/v2/)<br>
+[Bandizip]<br>
 
 ### Keyboard Input
 
 Settings > Time&Language > Typing > Advanced Keyboard Settings > Input Language Hotkey > Change Key Sequence > "Switch Input Language"->"Left Alt+Shift" and "Switch Keyboard Layout"->"Not Assigned"
-
-### Windows Cursor Replace
 
 ### 9800X3D Optimization
 
