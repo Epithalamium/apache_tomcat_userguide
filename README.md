@@ -129,3 +129,21 @@ Upscayl<br>
 venera<br>
 VSCode<br>
 WArp<br>
+Android Studio<br>
+Ani<br>
+AnyGo<br>
+BatChmod<br>
+BetterDisplay<br>
+Bob<br>
+Downie 4<br>
+FIClash<br>
+Ghostty<br>
+Immersive Translate<br>
+JiBA<br>
+KeePassXC<br>
+LocalSend<br>
+MacWhisper<br>
+Motrix<br>
+QuickRecorder<br>
+Shotter<br>
+Tg Pro<br>
