@@ -88,62 +88,45 @@ Curve optimizer-All cores-negative-20<br>
 
 ### macOS installed apps
 
-AdGuard<br>
-BaiduNetDisc<br>
-BTT<br>
-Clash Party<br>
-Discord<br>
-Equinox<br>
-FCP<br>
-Github Desktop<br>
-HashCheck<br>
-Ice<br>
-IINA<br>
-iMovie<br>
-Keka<br>
-KeyboardCleanTool<br>
-KnockKnock<br>
-LibreOffice<br>
-LuLu<br>
-Macs Fan Control<br>
-Noir<br>
-noTunes<br>
-OKX<br>
-OrbStack<br>
-PDFgear<br>
-PearClean<br>
-Pixelmator Pro<br>
-Privileges<br>
-QQMusic<br>
-Quark Disc<br>
-Royal TSX<br>
-Shottr<br>
-Sloth<br>
-Syntax Highlight<br>
-Tempermonkey<br>
-Telegram<br>
-Tiny Image<br>
-Tor Browser<br>
-Typora<br>
-Upscayl<br>
-venera<br>
-VSCode<br>
-WArp<br>
-Android Studio<br>
-Ani<br>
-AnyGo<br>
-BatChmod<br>
-BetterDisplay<br>
-Bob<br>
-Downie 4<br>
-FIClash<br>
+Google Docs<br>
+Google Sheets<br>
+Google Slides<br>
+Google Drive<br>
 Ghostty<br>
-Immersive Translate<br>
-JiBA<br>
-KeePassXC<br>
+uBlock Origin Lite<br>
+Visual Studio Code<br>
+Discord<br>
+GitHub Desktop<br>
 LocalSend<br>
-MacWhisper<br>
-Motrix<br>
-QuickRecorder<br>
-Shotter<br>
-Tg Pro<br>
+ChatGPT<br>
+MotrixNext<br>
+BaiduNetdisk\_mac<br>
+Syntax Highlight<br>
+Privileges<br>
+KnockKnock<br>
+KeyboardCleanTool<br>
+MarkEdit<br>
+OrbStack<br>
+Tor Browser<br>
+Telegram<br>
+LuLu<br>
+Clash Verge<br>
+CalHash<br>
+Noir<br>
+Downie 4<br>
+夸克网盘<br>
+PDFgear<br>
+Keka<br>
+Cryptomator<br>
+IINA<br>
+Bob<br>
+Sloth<br>
+TG Pro<br>
+Royal TSX<br>
+Steam<br>
+Shottr<br>
+Pearcleaner<br>
+Final Cut Pro<br>
+Upscayl<br>
+Tampermonkey<br>
+TouchRetouch<br>
