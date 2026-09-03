@@ -1,0 +1,177 @@
+=========================================================================================================
+ Microsoft Flight Simulator 2024 - 頂級豪華版 (Premium Deluxe) 可遊玩之全手工/精細機場清單
+=========================================================================================================
+總計收錄機場/飛行場/直升機場數量：167 座
+說明：頂級豪華版包含標準版、豪華版、頂級豪華版專屬機場，以及官方歷次 World Update / City Update / 40 週年串流機場。
+---------------------------------------------------------------------------------------------------------
+編號   | ICAO   | 機場名稱 (Airport Name)                      | 國家/地區 (Country/Region)    | 所屬分類/來源
+---------------------------------------------------------------------------------------------------------
+1    | KGCN   | Grand Canyon National Park               | USA                       | MSFS 2024 New
+2    | LEBB   | Bilbao                                   | Spain                     | MSFS 2024 New
+3    | KASE   | Aspen / Pitkin County                    | USA                       | Standard
+4    | KTEX   | Telluride Regional                       | USA                       | Standard
+5    | KJFK   | John F. Kennedy International            | USA                       | Standard
+6    | KLAX   | Los Angeles                              | USA                       | Standard
+7    | KEB    | Nanwalek                                 | USA                       | Standard
+8    | KMCO   | Orlando                                  | USA                       | Standard
+9    | KSEA   | Seattle-Tacoma                           | USA                       | Standard
+10   | KSEZ   | Sedona                                   | USA                       | Standard
+11   | CYTZ   | Billy Bishop Toronto City                | Canada                    | Standard
+12   | CZST   | Stewart                                  | Canada                    | Standard
+13   | LXGB   | Gibraltar                                | Gibraltar/UK              | Standard
+14   | EIDL   | Donegal                                  | Ireland                   | Standard
+15   | LFLJ   | Courchevel Altiport                      | France                    | Standard
+16   | LFPG   | Paris Charles de Gaulle                  | France                    | Standard
+17   | LOWI   | Innsbruck                                | Austria                   | Standard
+18   | LPMA   | Cristiano Ronaldo Madeira Int            | Portugal                  | Standard
+19   | YSSY   | Sydney                                   | Australia                 | Standard
+20   | NZQN   | Queenstown                               | New Zealand               | Standard
+21   | CAMA   | Bugalaga Airstrip                        | Indonesia                 | Standard
+22   | RJTT   | Haneda                                   | Japan                     | Standard
+23   | VQPR   | Paro International                       | Bhutan                    | Standard
+24   | VNLK   | Tenzing-Hillary                          | Nepal                     | Standard
+25   | SGBL   | Rio de Janeiro                           | Brazil                    | Standard
+26   | SPGL   | Chagual                                  | Peru                      | Standard
+27   | SEQM   | Mariscal Sucre International             | Ecuador                   | Standard
+28   | TNCS   | Juancho E. Yrausquin                     | Dutch Saba                | Standard
+29   | TFFJ   | Gustaf III Airport                       | France / Saint Barthélemy | Standard
+30   | MRSN   | Sirena Aerodrome                         | Costa Rica                | Standard
+31   | MHTG   | Toncontin International                  | Honduras                  | Standard
+32   | HUEN   | Entebbe International                    | Uganda                    | Standard
+33   | LEMD   | Madrid-Barajas                           | Spain                     | Deluxe
+34   | EHAM   | Amsterdam Schiphol                       | Netherlands               | Deluxe
+35   | HECA   | Cairo                                    | Egypt                     | Deluxe
+36   | FACT   | Cape Town                                | South Africa              | Deluxe
+37   | KORD   | O'Hare International                     | USA                       | Deluxe
+38   | KDEN   | Denver                                   | USA                       | Premium Deluxe
+39   | KSFO   | San Francisco                            | USA                       | Premium Deluxe
+40   | OMDB   | Dubai                                    | UAE                       | Premium Deluxe
+41   | EDDF   | Frankfurt                                | Germany                   | Premium Deluxe
+42   | EGLL   | London Heathrow                          | UK                        | Premium Deluxe
+43   | PAFR   | Bryant Army Airfield Heliport            | USA                       | WU1
+44   | KATL   | Atlanta International                    | USA                       | WU2
+45   | KFHR   | Friday Harbor                            | USA                       | WU2
+46   | KDFW   | Dallas / Fort Worth                      | USA                       | WU2
+47   | KSWF   | New York Stewart                         | USA                       | WU2
+48   | C53    | Lower Loon Creek                         | USA                       | WU2
+49   | KCOF   | Patrick Space Force Base                 | USA                       | GOTY / SU7
+50   | KNKX   | Marine Corps Air Station Miramar         | USA                       | GOTY / SU7
+51   | KAVX   | Catalina Airport                         | USA                       | WU10
+52   | KTVL   | Lake Tahoe Airport                       | USA                       | WU10
+53   | KBID   | Block Island Airport                     | USA                       | WU10
+54   | PAVD   | Valdez Airport                           | USA                       | WU10
+55   | KCGX   | Chicago Meigs Field                      | USA                       | 40th Anniv / SU11
+56   | KFFA   | First Flight Airport, Kitty Hawk         | USA                       | 40th Anniv / SU11
+57   | KRVL   | Mifflin County (Glider Site)             | USA                       | 40th Anniv / SU11
+58   | KJRB   | Downtown Manhattan (Heliport)            | USA                       | 40th Anniv / SU11
+59   | PHKO   | Kona International Airport               | Hawaii (USA)              | WU13
+60   | CYBD   | Bella Coola Airport                      | Canada                    | WU11
+61   | CYCG   | Castlegar Airport                        | Canada                    | WU11
+62   | CYDA   | Dawson City Airport                      | Canada                    | WU11
+63   | CYDF   | Deer Lake Airport                        | Canada                    | WU11
+64   | CYFB   | Iqaluit International Airport            | Canada                    | WU11
+65   | CAA8   | Invermere Airport (Glider Site)          | Canada                    | 40th Anniv / SU11
+66   | EGGP   | Liverpool                                | UK                        | WU3
+67   | EGHC   | Land's End                               | UK                        | WU3
+68   | EGCB   | Manchester-Barton                        | UK                        | WU3
+69   | EGAO   | Aboyne Airfield (Glider Site)            | UK                        | 40th Anniv / SU11
+70   | EGLW   | London Heliport (Heliport)               | UK                        | 40th Anniv / SU11
+71   | EGLF   | Farnborough Airport                      | UK                        | WU17
+72   | EGSS   | London Stansted Airport                  | UK                        | WU17
+73   | EICK   | Cork Airport                             | Ireland                   | WU17
+74   | EGPB   | Sumburgh Airport                         | Scotland (UK)             | WU17
+75   | EGPR   | Barra                                    | Scotland (UK)             | WU3
+76   | EGOU   | Outer Skerries                           | UK                        | WU3
+77   | EGFF   | Cardiff                                  | Wales (UK)                | WU17
+78   | LFHM   | Megève Airport                           | France                    | WU4
+79   | LFMN   | Nice Côte d'Azur                         | France                    | WU4
+80   | LFNC   | St. Crepin (Glider Site)                 | France                    | 40th Anniv / SU11
+81   | LFPI   | Issy-Les-Moulineaux (Heliport)           | France                    | 40th Anniv / SU11
+82   | LFPB   | Le Bourget Airport                       | France                    | City Update 2
+83   | EHRD   | Rotterdam The Hague                      | Netherlands               | WU4
+84   | EKRN   | Bornholm                                 | Denmark                   | WU5
+85   | ESSA   | Stockholm-Arlanda                        | Sweden                    | WU5
+86   | ESNQ   | Kiruna Airport                           | Sweden                    | WU15
+87   | EFVA   | Vaasa                                    | Finland                   | WU5
+88   | EFIV   | Ivalo Airport                            | Finland                   | WU15
+89   | ENSB   | Svalbard                                 | Norway                    | WU5
+90   | ENRA   | Mo i Rana Airport                        | Norway                    | WU15
+91   | ENLK   | Leknes Airport                           | Norway                    | WU15
+92   | BIIS   | Isafjordur                               | Iceland                   | WU5
+93   | BIAR   | Akureyri Airport                         | Iceland                   | WU15
+94   | EDHL   | Lübeck                                   | Germany                   | WU6
+95   | EDDS   | Stuttgart                                | Germany                   | WU6
+96   | EDXH   | Heligoland                               | Germany                   | WU6
+97   | EDDP   | Leipzig/Halle Airport                    | Germany                   | GOTY / SU7
+98   | EDJA   | Allgäu Airport Memmingen                 | Germany                   | GOTY / SU7
+99   | EDVK   | Kassel Airport                           | Germany                   | GOTY / SU7
+100  | EDGD   | Füssen                                   | Germany                   | 40th Anniv / SU11
+101  | EDLO   | Oerlinghausen Airfield                   | Germany                   | 40th Anniv / SU11
+102  | EDDK   | Cologne Bonn Airport                     | Germany                   | City Update 4
+103  | LOWK   | Klagenfurt                               | Austria                   | WU6
+104  | LOGI   | Trieben Airfield (Glider Site)           | Austria                   | 40th Anniv / SU11
+105  | LSZR   | St. Gallen-Altenrhein                    | Switzerland               | WU6
+106  | LSZA   | Lugano Airport                           | Switzerland               | GOTY / SU7
+107  | LSZH   | Zurich Airport                           | Switzerland               | GOTY / SU7
+108  | LSZO   | Luzern-Beromunster Airport               | Switzerland               | GOTY / SU7
+109  | LSZG   | Grenchen                                 | Switzerland               | 40th Anniv / SU11
+110  | LSZN   | Hausen Am Albis                          | Switzerland               | 40th Anniv / SU11
+111  | LESU   | Andorra - La Seu d'Urgell                | Spain                     | WU8
+112  | LECO   | La Coruna/Alvedro                        | Spain                     | WU8
+113  | LPPI   | Pico                                     | Portugal                  | WU8
+114  | LPFR   | Faro                                     | Portugal                  | WU8
+115  | LICJ   | Palermo Airport                          | Italy                     | WU9
+116  | LILO   | Sondrio airport                          | Italy                     | WU9
+117  | LIRJ   | Marina di Campo Airport                  | Italy                     | WU9
+118  | LIPB   | Bolzano Airport                          | Italy                     | WU9
+119  | LILC   | Calcinate Del Pesce (Glider Site)        | Italy                     | 40th Anniv / SU11
+120  | LKKV   | Karlovy Vary                             | Czechia                   | WU14
+121  | LZTT   | Poprad-Tatry                             | Slovakia                  | WU14
+122  | LHPP   | Pécs-Pogány                              | Hungary                   | WU14
+123  | LJZA   | Zagorje ob Savi                          | Slovenia                  | WU14
+124  | LDRI   | Rijeka International                     | Croatia                   | WU14
+125  | LQPD   | Prijedor Urije                           | Bosnia-Herzegovina        | WU14
+126  | RJFU   | Nagasaki                                 | Japan                     | WU1
+127  | RJCK   | Kushiro                                  | Japan                     | WU1
+128  | RJTH   | Hachijojima                              | Japan                     | WU1
+129  | RJX8   | Suwanosejima                             | Japan                     | WU1
+130  | ROKR   | Kerama                                   | Japan                     | WU1
+131  | RORS   | Shimojishima                             | Japan                     | WU1
+132  | RJTI   | Tokyo Heliport (Heliport)                | Japan                     | 40th Anniv / SU11
+133  | VHHX   | Hong Kong Kai Tak                        | Hong Kong                 | 40th Anniv / SU11
+134  | YLRE   | Longreach                                | Australia                 | WU7
+135  | YMBT   | Mount Beauty Airport                     | Australia                 | WU7
+136  | YPBO   | Paraburdoo                               | Australia                 | WU7
+137  | YSHL   | Shellharbour Airport                     | Australia                 | WU7
+138  | YCAB   | Caboolture Airfield (Glider Site)        | Australia                 | 40th Anniv / SU11
+139  | NZGS   | Gisborne Airport                         | New Zealand               | WU12
+140  | NZMF   | Milford Sound Airport                    | New Zealand               | WU12
+141  | NZMJ   | Martins Bay Aerodrome                    | New Zealand               | WU12
+142  | NZQE   | Gorge River Airstrip                     | New Zealand               | WU12
+143  | NZRO   | Rotorua Airport                          | New Zealand               | WU12
+144  | NZTL   | Lake Tekapo Airport                      | New Zealand               | WU12
+145  | NZWR   | Whangarei Airport                        | New Zealand               | WU12
+146  | NZWS   | Westport Airport                         | New Zealand               | WU12
+147  | T004   | Quintin Lodge Airstrip                   | New Zealand               | WU12
+148  | SCIP   | Mataveri International Airport           | Easter Island (Chile)     | WU13
+149  | AGGN   | Nusatupe Airport                         | Solomon Islands           | WU13
+150  | NTTB   | Bora Bora Airport                        | French Polynesia          | WU13
+151  | NTTM   | Moorea Airport                           | French Polynesia          | WU13
+152  | NCAI   | Aitutaki Airport                         | Cook Islands              | WU13
+153  | PTPN   | Pohnpei International Airport            | Micronesia                | WU13
+154  | WAHQ   | Adisumarmo Intl Airport                  | Indonesia                 | WU13
+155  | TNCM   | Princess Juliana International Airport   | Saint Martin              | 40th Anniv / SU11
+156  | MDPP   | Gregorio Luperón International Airport   | Dominican Republic        | WU16
+157  | MTCA   | Antoine-Simon Airport                    | Haiti                     | WU16
+158  | MKJS   | Sangster International Airport           | Jamaica                   | WU16
+159  | TCCP   | A.N.R. Robinson International Airport    | Trinidad & Tobago         | WU16
+160  | MYEH   | North Eleuthera Airport                  | Bahamas                   | WU16
+161  | TFFS   | Les Saintes Airport                      | Guadeloupe                | WU16
+162  | MUCL   | Cayo Largo Del Sur                       | Cuba                      | WU16
+163  | SMDH   | Heliponto Mirante Dona Marta (Heliport)  | Brazil                    | 40th Anniv / SU11
+164  | SCVH   | La Victoria De Chacabuco (Glider Site)   | Chile                     | 40th Anniv / SU11
+165  | FYVF   | Veronica Flying (Glider Site)            | Namibia                   | 40th Anniv / SU11
+166  | FAWC   | Worcester Gape Gliding (Glider Site)     | South Africa              | 40th Anniv / SU11
+167  | HEGH   | Giza Plateau (Heliport)                  | Egypt                     | 40th Anniv / SU11
+---------------------------------------------------------------------------------------------------------
+清單結束，共 167 座精細機場。
