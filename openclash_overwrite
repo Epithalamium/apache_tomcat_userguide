@@ -1,0 +1,27 @@
+#!/bin/sh
+. /usr/share/openclash/ruby.sh
+. /usr/share/openclash/log.sh
+. /lib/functions.sh
+
+# This script is called by /etc/init.d/openclash
+# Add your custom overwrite scripts here, they will be take effict after the OpenClash own srcipts
+
+LOG_TIP "Start Running Custom Overwrite Scripts..."
+LOGTIME=$(echo $(date "+%Y-%m-%d %H:%M:%S"))
+LOG_FILE="/tmp/openclash.log"
+#Config Path
+CONFIG_FILE="$1"
+
+# ------------------ 修改 url-test 间隔与容差 ------------------
+# 1. 修改 proxy-groups 中所有 type 为 url-test 的策略组
+ruby_arr_edit "$CONFIG_FILE" "['proxy-groups']" "['type']" "url-test" "['interval']" "600"
+ruby_arr_edit "$CONFIG_FILE" "['proxy-groups']" "['type']" "url-test" "['tolerance']" "150"
+
+# 2. 修改 proxy-providers 中健康检查的间隔与容差
+ruby_arr_edit "$CONFIG_FILE" "['proxy-providers']" "" "" "['health-check']['interval']" "600"
+ruby_arr_edit "$CONFIG_FILE" "['proxy-providers']" "" "" "['health-check']['tolerance']" "150"
+
+echo "${LOGTIME} [info] Successfully modified url-test interval to 600s and tolerance to 150ms." >> $LOG_FILE
+# -------------------------------------------------------------
+
+exit 0
