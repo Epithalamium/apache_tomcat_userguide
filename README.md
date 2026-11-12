@@ -16,8 +16,10 @@ Settings > Power Plan > Ultimate<br>
 Settings > Power Plan > Screen and sleep > all check "Never"
 
 ### Download Necessary Applications
+<details>
+<summary>Download Necessary Applications</summary>
 
-Asus driverhub
+Asus driverhub<br>
 [chromium](https://github.com/RobRich999/Chromium_Clang)<br>
 [Optimizer](https://github.com/hellzerg/optimizer)<br>
 Win11EZToUse<br>
@@ -63,6 +65,8 @@ VMware<br>
 [Motrix NEXT](https://github.com/AnInsomniacy/motrix-next)<br>
 [AutoHotkey](https://www.autohotkey.com/v2/)<br>
 [Bandizip]<br>
+
+</details>
 
 ### Keyboard Input
 
