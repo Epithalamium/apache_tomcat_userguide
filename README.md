@@ -15,9 +15,31 @@ when on network selection page > Shift+F10 > input "oobe\BypassNRO.cmd" > Window
 Settings > Power Plan > Ultimate<br>
 Settings > Power Plan > Screen and sleep > all check "Never"
 
-### Download Necessary Applications
+### Keyboard Input
+
+Settings > Time&Language > Typing > Advanced Keyboard Settings > Input Language Hotkey > Change Key Sequence > "Switch Input Language"->"Left Alt+Shift" and "Switch Keyboard Layout"->"Not Assigned"
+
+### 9800X3D Optimization
+
+主頁-EXPO-enable<br>
+高階模式-Ai Tweaker<br>
+Ai Overclock Tuner-EXPO Tweaker<br>
+FCLK Frequency-1/3 MEM frequency<br>
+AUSU performance enhancement-enable<br>
+Core performers boost-enable<br>
+F9 search: power down-All enable | memory context-All enable<br>
+高級-AMD overclocking<br>
+Precision boost overdrive-高級<br>
+PBO Limits-Motherboard<br>
+Precision boost overdrive scalar-6x<br>
+CPU bost clock override-enable(positive)<br>
+Max CPU boost clock override(+)-200<br>
+Platform thermal throttle limit-95<br>
+Curve optimizer-All cores-negative-20<br>
+
+### Apps installed
 <details>
-<summary>Download Necessary Applications</summary>
+<summary>Windows</summary>
 
 Asus driverhub<br>
 [chromium](https://github.com/RobRich999/Chromium_Clang)<br>
@@ -64,33 +86,22 @@ VMware<br>
 [Modengine](https://modengine.app)<br>
 [Motrix NEXT](https://github.com/AnInsomniacy/motrix-next)<br>
 [AutoHotkey](https://www.autohotkey.com/v2/)<br>
+[AltSnap]<br>
+[Total Uninstall 7]<br>
 [Bandizip]<br>
+[Firewall_blocker]<br>
+[RunBlock]<br>
+[Dolphin]<br>
+[sgdboop-win64]<br>
+[Cider]<br>
+[Kdenlive]<br>
+[GoogleDrive]<br>
+[glacc]<br>
 
 </details>
 
-### Keyboard Input
-
-Settings > Time&Language > Typing > Advanced Keyboard Settings > Input Language Hotkey > Change Key Sequence > "Switch Input Language"->"Left Alt+Shift" and "Switch Keyboard Layout"->"Not Assigned"
-
-### 9800X3D Optimization
-
-主頁-EXPO-enable<br>
-高階模式-Ai Tweaker<br>
-Ai Overclock Tuner-EXPO Tweaker<br>
-FCLK Frequency-1/3 MEM frequency<br>
-AUSU performance enhancement-enable<br>
-Core performers boost-enable<br>
-F9 search: power down-All enable | memory context-All enable<br>
-高級-AMD overclocking<br>
-Precision boost overdrive-高級<br>
-PBO Limits-Motherboard<br>
-Precision boost overdrive scalar-6x<br>
-CPU bost clock override-enable(positive)<br>
-Max CPU boost clock override(+)-200<br>
-Platform thermal throttle limit-95<br>
-Curve optimizer-All cores-negative-20<br>
-
-### macOS installed apps
+<details>
+<summary>macOS</summary>
 
 Google Docs<br>
 Google Sheets<br>
@@ -134,3 +145,7 @@ Final Cut Pro<br>
 Upscayl<br>
 Tampermonkey<br>
 TouchRetouch<br>
+
+</details>
+
+
