@@ -96,6 +96,7 @@ VMware<br>
 [Cider]<br>
 [Kdenlive]<br>
 [GoogleDrive]<br>
+[PLITCH]<br>
 [glacc]<br>
 <img width="1735" height="71" alt="image" src="https://github.com/user-attachments/assets/a9cf78e3-2392-4171-b7a7-3d5f65cc2b2e" />
 
