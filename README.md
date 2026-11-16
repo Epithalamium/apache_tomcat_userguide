@@ -58,6 +58,7 @@ Windows Cursor replace<br>
 [File Shredder](https://www.fileshredder.org/)<br>
 [quicklook](https://github.com/QL-Win/QuickLook)<br>
 [FanControl](https://github.com/Rem0o/FanControl.Releases)<br>
+OpenHashTab<br>
 [AutoDarkMode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)<br>
 [Animeko](https://myani.org/downloads)<br>
 [bilidownloader](https://github.com/LightQuanta/BiliResourceDownloader)<br>
