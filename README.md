@@ -61,7 +61,6 @@ Windows Cursor replace<br>
 OpenHashTab<br>
 [AutoDarkMode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)<br>
 [Animeko](https://myani.org/downloads)<br>
-[bilidownloader](https://github.com/LightQuanta/BiliResourceDownloader)<br>
 DSX<br>
 [Everything](https://everything.en.uptodown.com/windows/download)<br>
 [Filerennamer](https://github.com/ilgnefz/once_power)<br>
