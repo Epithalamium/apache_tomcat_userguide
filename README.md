@@ -4,15 +4,8 @@
 
 when on network selection page > Shift+F10 > input "oobe\BypassNRO.cmd" > Windows will auto restart > "I haven't Internet Connections" > "Continue With Restricted Settings" > u can create local account now
 
-### 圖吧工具箱內Win設定
-
-### Necessary Drivers
-
-### Windows update
-
 ### Power Plan
 
-Settings > Power Plan > Ultimate<br>
 Settings > Power Plan > Screen and sleep > all check "Never"
 
 ### Keyboard Input
