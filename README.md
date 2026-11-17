@@ -41,13 +41,12 @@ Curve optimizer-All cores-negative-20<br>
 <details>
 <summary>Windows</summary>
 
-Asus driverhub<br>
+[Asus driverhub](https://driverhub.asus.com/en)<br>
 [chromium](https://github.com/RobRich999/Chromium_Clang)<br>
 [Optimizer](https://github.com/hellzerg/optimizer)<br>
 Win11EZToUse<br>
 Windows Cursor replace<br>
-[图吧工具箱](https://www.tbtool.cn/)<br>
-[Logitech](https://support.logi.com/hc/en-ca/articles/360059641133-Onboard-Memory-Manager)<br>
+[图吧工具箱](https://www.tbtool.cn/download/)<br>
 [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)<br>
 [Steam](https://store.steampowered.com/about/)<br>
 [Steam++](https://steampp.net/)<br>
@@ -58,11 +57,10 @@ Windows Cursor replace<br>
 [File Shredder](https://www.fileshredder.org/)<br>
 [quicklook](https://github.com/QL-Win/QuickLook)<br>
 [FanControl](https://github.com/Rem0o/FanControl.Releases)<br>
-OpenHashTab<br>
+[OpenHashTab](https://github.com/namazso/OpenHashTab)<br>
 [AutoDarkMode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)<br>
 [Animeko](https://myani.org/downloads)<br>
 DSX<br>
-[Everything](https://everything.en.uptodown.com/windows/download)<br>
 [Filerennamer](https://github.com/ilgnefz/once_power)<br>
 [Game_Cheats_Manager](https://github.com/dyang886/Game-Cheats-Manager)<br>
 [Locale_Emulator](https://github.com/xupefei/Locale-Emulator)<br>
@@ -72,32 +70,27 @@ DSX<br>
 [MobaXterm](https://mobaxterm.mobatek.net/download.html)<br>
 [KMplayer](https://www.kmplayer.com/home#layer-64x)<br>
 [ScreenToGif](https://www.screentogif.com/)<br>
-[SonyMusicCenter](https://www.sony.com.hk/zh/electronics/support/articles/MC4PC020001?srsltid=AfmBOorScW6EVK8K-NBdzipK003hFhN8Kdarr8wzejA9MkZ3wsUMzQRQ)<br>
-[Syncthing](https://syncthing.net/downloads/)<br>
-[taskbarX](https://taskbarx.org/)<br>
 Thrustmaster<br>
 VKBsim<br>
 VMware<br>
-[Netmount](https://www.netmount.cn/download)<br>
 [Volanta](https://volanta.app/)<br>
-[Hash Checker](https://apps.microsoft.com/detail/9nblggh6csh2?hl=en-US&gl=US)<br>
 [LG TV AutoControl](https://github.com/JPersson77/LGTVCompanion)<br>
 [Fastcopy](https://fastcopy.jp)<br>
 [Modengine](https://modengine.app)<br>
-[Motrix NEXT](https://github.com/AnInsomniacy/motrix-next)<br>
+[rayburst](https://github.com/AnInsomniacy/motrix-next)<br>
 [AutoHotkey](https://www.autohotkey.com/v2/)<br>
-[AltSnap]<br>
-[Total Uninstall 7]<br>
-[Bandizip]<br>
-[Firewall_blocker]<br>
-[RunBlock]<br>
-[Dolphin]<br>
-[sgdboop-win64]<br>
-[Cider]<br>
-[Kdenlive]<br>
-[GoogleDrive]<br>
-[PLITCH]<br>
-[glacc]<br>
+[AltSnap](https://github.com/RamonUnch/AltSnap)<br>
+[Total Uninstall 7](https://wwat.lanzoul.com/b031vgehi?pwd=azbs)<br>
+Bandizip<br>
+[Firewall_blocker](https://www.sordum.org/8125/firewall-app-blocker-fab-v1-9/)<br>
+[RunBlock](https://www.sordum.org/8486/simple-run-blocker-v1-5/)<br>
+[Dolphin-steam](https://www.htjsq.com/)<br>
+sgdboop-win64<br>
+[Cider](https://taproom.cider.sh/dashboard)<br>
+[Kdenlive](https://kdenlive.org/download/)<br>
+[GoogleDrive](https://workspace.google.com/products/drive/)<br>
+[PLITCH](https://www.plitch.com/en)<br>
+glacc<br>
 <img width="1735" height="71" alt="image" src="https://github.com/user-attachments/assets/a9cf78e3-2392-4171-b7a7-3d5f65cc2b2e" />
 
 
