@@ -73,7 +73,7 @@ VMware<br>
 [rayburst](https://github.com/AnInsomniacy/motrix-next)<br>
 [AutoHotkey](https://www.autohotkey.com/v2/)<br>
 [AltSnap](https://github.com/RamonUnch/AltSnap)<br>
-[Total Uninstall 7](https://wwat.lanzoul.com/b031vgehi?pwd=azbs)<br>
+[Total Uninstall 7](https://leon.lanzoue.com/b031vgehi?pwd=azbs)<br>
 Bandizip<br>
 [Firewall_blocker](https://www.sordum.org/8125/firewall-app-blocker-fab-v1-9/)<br>
 [RunBlock](https://www.sordum.org/8486/simple-run-blocker-v1-5/)<br>
@@ -83,6 +83,8 @@ sgdboop-win64<br>
 [Kdenlive](https://kdenlive.org/download/)<br>
 [GoogleDrive](https://workspace.google.com/products/drive/)<br>
 [PLITCH](https://www.plitch.com/en)<br>
+[OpenComic](https://github.com/ollm/OpenComic)<br>
+[Process Lasso](https://bitsum.com/download-process-lasso/)<br>
 glacc<br>
 <img width="1735" height="71" alt="image" src="https://github.com/user-attachments/assets/a9cf78e3-2392-4171-b7a7-3d5f65cc2b2e" />
 
