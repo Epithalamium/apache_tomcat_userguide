@@ -62,7 +62,7 @@ DSX<br>
 [VScode](https://code.visualstudio.com/download)<br>
 [MobaXterm](https://mobaxterm.mobatek.net/download.html)<br>
 [KMplayer](https://www.kmplayer.com/home#layer-64x)<br>
-[ScreenToGif](https://www.screentogif.com/)<br>
+[ScreenToGif](https://nicke.tech/screentogif)<br>
 Thrustmaster<br>
 VKBsim<br>
 VMware<br>
